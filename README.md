@@ -11,7 +11,7 @@ Instead of manually selecting "Food," "Transport," or "Rent," the user simply ty
 ### **Technical Breakdown**
 - **Model**: Linear Support Vector Machine (LinearSVC)
 - **Vectorization**: TF-IDF (Term Frequency-Inverse Document Frequency)
-- **Accuracy**: **90% – 93%** 🔥
+- **Accuracy**: **80% – 82%** 
 - **Categories**: Food, Travel, Rent, Utilities, Entertainment, Health, Education, Shopping, and Income.
 - **Robustness**: High-precision keyword mapping and synthetic data augmentation used to handle noisy real-world data.
 
@@ -50,9 +50,9 @@ The next evolution of this project is a **Computer Vision + NLP** Receipt Scanne
 ---
 
 ## 🤝 Integration
-This module is designed to work in tandem with the **[Allinone Expense Tracker](https://github.com/Basanagouda25/AI_Expense_Categorizer)** (Kotlin). The `.pkl` models generated here are optimized for conversion to lightweight formats suitable for mobile deployment.
+This module is designed to work in tandem with the **[Expense Tracker](https://github.com/Basanagouda25/AI_Expense_Categorizer)** (Kotlin). The `.pkl` models generated here are optimized for conversion to lightweight formats suitable for mobile deployment.
 
 ---
 
 ### **Maintainer**
-Developed with ❤️ by **[Basanagouda25](https://github.com/Basanagouda25)**.
+Developed by **[Basanagouda25](https://github.com/Basanagouda25)**.
